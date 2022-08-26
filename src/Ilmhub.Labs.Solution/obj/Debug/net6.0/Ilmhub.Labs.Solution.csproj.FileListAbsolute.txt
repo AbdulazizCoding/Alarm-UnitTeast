@@ -1,0 +1,12 @@
+/home/abdulaziz/Abdulaziz/XUnit/src/Ilmhub.Labs.Solution/obj/Debug/net6.0/Ilmhub.Labs.Solution.csproj.AssemblyReference.cache
+/home/abdulaziz/Abdulaziz/XUnit/src/Ilmhub.Labs.Solution/obj/Debug/net6.0/Ilmhub.Labs.Solution.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdulaziz/Abdulaziz/XUnit/src/Ilmhub.Labs.Solution/obj/Debug/net6.0/Ilmhub.Labs.Solution.AssemblyInfoInputs.cache
+/home/abdulaziz/Abdulaziz/XUnit/src/Ilmhub.Labs.Solution/obj/Debug/net6.0/Ilmhub.Labs.Solution.AssemblyInfo.cs
+/home/abdulaziz/Abdulaziz/XUnit/src/Ilmhub.Labs.Solution/obj/Debug/net6.0/Ilmhub.Labs.Solution.csproj.CoreCompileInputs.cache
+/home/abdulaziz/Abdulaziz/XUnit/src/Ilmhub.Labs.Solution/bin/Debug/net6.0/Ilmhub.Labs.Solution.deps.json
+/home/abdulaziz/Abdulaziz/XUnit/src/Ilmhub.Labs.Solution/bin/Debug/net6.0/Ilmhub.Labs.Solution.dll
+/home/abdulaziz/Abdulaziz/XUnit/src/Ilmhub.Labs.Solution/bin/Debug/net6.0/Ilmhub.Labs.Solution.pdb
+/home/abdulaziz/Abdulaziz/XUnit/src/Ilmhub.Labs.Solution/obj/Debug/net6.0/Ilmhub.Labs.Solution.dll
+/home/abdulaziz/Abdulaziz/XUnit/src/Ilmhub.Labs.Solution/obj/Debug/net6.0/refint/Ilmhub.Labs.Solution.dll
+/home/abdulaziz/Abdulaziz/XUnit/src/Ilmhub.Labs.Solution/obj/Debug/net6.0/Ilmhub.Labs.Solution.pdb
+/home/abdulaziz/Abdulaziz/XUnit/src/Ilmhub.Labs.Solution/obj/Debug/net6.0/ref/Ilmhub.Labs.Solution.dll
